@@ -1,0 +1,10 @@
+./cofre < cofre1.in | diff - cofre1.out
+./cofre < cofre2.in | diff - cofre2.out
+./cofre < cofre3.in | diff - cofre3.out
+./cofre < cofre4.in | diff - cofre4.out
+./cofre < cofre5.in | diff - cofre5.out
+./cofre < cofre6.in | diff - cofre6.out
+./cofre < cofre7.in | diff - cofre7.out
+./cofre < cofre8.in | diff - cofre8.out
+./cofre < cofre9.in | diff - cofre9.out
+./cofre < cofre10.in | diff - cofre10.out
